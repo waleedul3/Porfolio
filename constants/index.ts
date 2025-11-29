@@ -9,26 +9,14 @@ import {
 
 export const SKILL_DATA = [
   {
-    skill_name: "HTML",
-    image: "html.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "CSS",
-    image: "css.png",
-    width: 80,
-    height: 80,
-  },
-  {
     skill_name: "JavaScript",
     image: "js.png",
     width: 65,
     height: 65,
   },
   {
-    skill_name: "Tailwind CSS",
-    image: "tailwind.png",
+    skill_name: "TypeScript",
+    image: "ts.png",
     width: 80,
     height: 80,
   },
@@ -39,20 +27,8 @@ export const SKILL_DATA = [
     height: 80,
   },
   {
-    skill_name: "Redux",
-    image: "redux.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "React Query",
-    image: "reactquery.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "TypeScript",
-    image: "ts.png",
+    skill_name: "Node.js",
+    image: "node.png",
     width: 80,
     height: 80,
   },
@@ -63,46 +39,58 @@ export const SKILL_DATA = [
     height: 80,
   },
   {
-    skill_name: "Framer Motion",
-    image: "framer.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Stripe",
-    image: "stripe.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Node.js",
-    image: "node.png",
-    width: 80,
-    height: 80,
-  },
-  {
     skill_name: "MongoDB",
     image: "mongodb.png",
     width: 40,
     height: 40,
   },
+  {
+    skill_name: "Firebase",
+    image: "firebase.png",
+    width: 55,
+    height: 55,
+  },
+  {
+    skill_name: "Express.js",
+    image: "express.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Tailwind CSS",
+    image: "tailwind.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Docker",
+    image: "docker.png",
+    width: 70,
+    height: 70,
+  },
+  {
+    skill_name: "MySQL",
+    image: "mysql.png",
+    width: 70,
+    height: 70,
+  },
 ] as const;
 
 export const SOCIALS = [
   {
-    name: "Instagram",
-    icon: RxInstagramLogo,
-    link: "https://instagram.com",
+    name: "LinkedIn",
+    icon: RxLinkedinLogo,
+    link: "https://linkedin.com/in/waleedul3",
   },
   {
-    name: "Facebook",
-    icon: FaFacebook,
-    link: "https://facebook.com",
+    name: "GitHub",
+    icon: RxGithubLogo,
+    link: "https://github.com/waleedul3",
   },
   {
     name: "Twitter",
     icon: RxTwitterLogo,
-    link: "https://twitter.com",
+    link: "https://twitter.com/waleedul3",
   },
 ] as const;
 
@@ -126,14 +114,8 @@ export const FRONTEND_SKILL = [
     height: 65,
   },
   {
-    skill_name: "Tailwind CSS",
-    image: "tailwind.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "Material UI",
-    image: "mui.png",
+    skill_name: "TypeScript",
+    image: "ts.png",
     width: 80,
     height: 80,
   },
@@ -144,26 +126,20 @@ export const FRONTEND_SKILL = [
     height: 80,
   },
   {
-    skill_name: "Redux",
-    image: "redux.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "React Query",
-    image: "reactquery.png",
-    width: 80,
-    height: 80,
-  },
-  {
-    skill_name: "TypeScript",
-    image: "ts.png",
-    width: 80,
-    height: 80,
-  },
-  {
     skill_name: "Next.js 14",
     image: "next.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Tailwind CSS",
+    image: "tailwind.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Material UI",
+    image: "mui.png",
     width: 80,
     height: 80,
   },
@@ -189,6 +165,12 @@ export const BACKEND_SKILL = [
     height: 40,
   },
   {
+    skill_name: "MySQL",
+    image: "mysql.png",
+    width: 70,
+    height: 70,
+  },
+  {
     skill_name: "Firebase",
     image: "firebase.png",
     width: 55,
@@ -197,12 +179,6 @@ export const BACKEND_SKILL = [
   {
     skill_name: "PostgreSQL",
     image: "postgresql.png",
-    width: 70,
-    height: 70,
-  },
-  {
-    skill_name: "MySQL",
-    image: "mysql.png",
     width: 70,
     height: 70,
   },
@@ -239,7 +215,6 @@ export const FULLSTACK_SKILL = [
     width: 70,
     height: 70,
   },
-
   {
     skill_name: "Figma",
     image: "figma.png",
@@ -255,50 +230,82 @@ export const OTHER_SKILL = [
     width: 60,
     height: 60,
   },
+  {
+    skill_name: "Framer Motion",
+    image: "framer.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Redux",
+    image: "redux.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "React Query",
+    image: "reactquery.png",
+    width: 80,
+    height: 80,
+  },
 ] as const;
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
+    title: "UniCrush - College Social Platform",
     description:
-      'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
-    image: "/projects/project-1.png",
-    link: "https://example.com",
+      "A real-time social networking platform designed specifically for university students. Built with Firebase backend, featuring user authentication, profiles, and real-time data updates using Firestore. Architected for future scalability with cloud deployment on AWS.",
+    image: "/projects/unicrush.jpg",
+    link: "https://github.com/waleedul3/unicrush",
   },
   {
-    title: "Interactive Cards Portfolio",
+    title: "MentoraX - EdTech Platform",
     description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
-    image: "/projects/project-2.png",
-    link: "https://example.com",
+      "A comprehensive educational platform featuring course management and automated certification workflows. Integrated Razorpay payment gateway for secure transactions and premium subscriptions. Built with real-time authentication using Firebase and Supabase.",
+    image: "/projects/mentorax.png",
+    link: "https://github.com/waleedul3/mentorax",
   },
   {
-    title: "Space Themed Website",
+    title: "StreamNode - Live Streaming Platform",
     description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
-    image: "/projects/project-3.png",
-    link: "https://example.com",
+      "Self-hosted WebRTC-based live streaming platform supporting 20+ concurrent streams with sub-300ms latency. Features custom Node.js signaling server for real-time coordination and improved stream stability across variable network conditions.",
+    image: "/projects/streamnode.png",
+    link: "https://github.com/waleedul3/streamnode",
+  },
+  {
+    title: "VidSwift - Media Downloader",
+    description:
+      "Advanced video and audio downloader supporting multiple platforms with all available quality formats. Features efficient media handling and streaming logic, designed with extensibility for future platform integrations.",
+    image: "/projects/vidswift.png",
+    link: "https://github.com/waleedul3/vidswift",
+  },
+  {
+    title: "Employee Salary Prediction System",
+    description:
+      "Machine learning model predicting employee salaries based on experience and performance features. Achieved 85% prediction accuracy through advanced data cleaning and feature engineering. Built with Python, Scikit-learn, and Jupyter Notebook.",
+    image: "/projects/salary-pridiction.png",
+    link: "https://github.com/waleedul3/salary-prediction",
   },
 ] as const;
 
 export const FOOTER_DATA = [
   {
-    title: "Community",
+    title: "Professional",
     data: [
       {
-        name: "YouTube",
-        icon: FaYoutube,
-        link: "https://youtube.com",
+        name: "LinkedIn",
+        icon: RxLinkedinLogo,
+        link: "https://linkedin.com/in/waleedul3",
       },
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com",
+        link: "https://github.com/waleedul3",
       },
       {
-        name: "Discord",
-        icon: RxDiscordLogo,
-        link: "https://discord.com",
+        name: "Resume",
+        icon: null,
+        link: "/waleed_resume.pdf",
       },
     ],
   },
@@ -306,39 +313,34 @@ export const FOOTER_DATA = [
     title: "Social Media",
     data: [
       {
-        name: "Instagram",
-        icon: RxInstagramLogo,
-        link: "https://instagram.com",
-      },
-      {
         name: "Twitter",
         icon: RxTwitterLogo,
-        link: "https://twitter.com",
+        link: "https://twitter.com/waleedul3",
       },
       {
-        name: "Linkedin",
-        icon: RxLinkedinLogo,
-        link: "https://linkedin.com",
+        name: "Instagram",
+        icon: RxInstagramLogo,
+        link: "https://instagram.com/waleedul_haque_",
       },
     ],
   },
   {
-    title: "About",
+    title: "Contact",
     data: [
       {
-        name: "Become Sponsor",
+        name: "Email Me",
         icon: null,
-        link: "https://youtube.com",
+        link: "mailto:waleedulhaque3@email.com",
       },
       {
-        name: "Learning about me",
+        name: "Phone",
         icon: null,
-        link: "https://example.com",
+        link: "tel:+918252741528",
       },
       {
-        name: "Contact Me",
+        name: "Hire Me",
         icon: null,
-        link: "mailto:contact@example.com",
+        link: "mailto:waleedulhaque3@email.com?subject=Job Opportunity",
       },
     ],
   },
@@ -360,5 +362,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/sanidhyy/space-portfolio",
+  sourceCode: "https://github.com/waleedul3",
 };

@@ -1,17 +1,16 @@
 <a name="readme-top"></a>
 
-# Modern Space Theme Portfolio using Next.js 14 and Three.js
+# MD Waleedul Haque - MERN Stack & AI Developer Portfolio
 
-![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
+![MD Waleedul Haque Portfolio](/.github/images/img_main.png "MD Waleedul Haque - MERN Stack & AI Developer Portfolio")
 
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://spaceportfolio.netlify.app/ "Netlify Status")
+[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/waleedul3 "Ask Me Anything!")
+[![GitHub license](https://flat.badgen.net/github/license/waleedul3/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/waleedul3/space-portfolio/blob/main/LICENSE "GitHub license")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/waleedul3/space-portfolio/commits/main "Maintenance")
+[![GitHub branches](https://flat.badgen.net/github/branches/waleedul3/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/waleedul3/space-portfolio/branches "GitHub branches")
+[![Github commits](https://flat.badgen.net/github/commits/waleedul3/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/waleedul3/space-portfolio/commits "Github commits")
+[![GitHub issues](https://flat.badgen.net/github/issues/waleedul3/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/waleedul3/space-portfolio/issues "GitHub issues")
+[![GitHub pull requests](https://flat.badgen.net/github/prs/waleedul3/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/waleedul3/space-portfolio/pulls "GitHub pull requests")
 
 <!-- Table of Contents -->
 <details>
@@ -38,6 +37,21 @@
 - [Give A Star](#star-give-a-star)
 
 </details>
+
+## :wave: About Me
+
+I'm **MD Waleedul Haque**, a results-oriented Computer Science Engineering undergraduate with hands-on experience in **Full Stack Development (MERN)** and **Artificial Intelligence**. Currently pursuing B.Tech at GLA University with a passion for building high-impact software products across EdTech, streaming, AI, and social platforms.
+
+### :briefcase: Experience Highlights
+- **AI & ML Intern** at Edunet Foundation (AICTE) - Developed ML models with 85% accuracy
+- **MERN Stack Development Intern** at Webstack Academy - Built full-stack applications
+- **Campus Ambassador** at Unstop - Promoted tech events to 300+ students
+
+### :trophy: Key Achievements
+- Ranked **Top 30** in SIH Internal Hackathon at GLA University
+- Built **StreamNode** - Self-hosted streaming platform with sub-300ms latency
+- Developed **UniCrush** - Real-time social networking platform for students
+- Created **MentoraX** - EdTech platform with automated certification workflows
 
 ## :bangbang: Folder Structure
 
@@ -113,7 +127,7 @@ space-portfolio/
 
 ## :gear: Tech Stack
 
-[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://netlify.app/ "Netlify") [![Three.js](https://skillicons.dev/icons?i=threejs "Three.js")](https://threejs.org/ "Three.js")
+[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Node.js](https://skillicons.dev/icons?i=nodejs "Node.js")](https://nodejs.org/ "Node.js") [![MongoDB](https://skillicons.dev/icons?i=mongodb "MongoDB")](https://mongodb.com/ "MongoDB") [![Express](https://skillicons.dev/icons?i=express "Express")](https://expressjs.com/ "Express") [![Python](https://skillicons.dev/icons?i=python "Python")](https://python.org/ "Python") [![TypeScript](https://skillicons.dev/icons?i=ts "TypeScript")](https://www.typescriptlang.org/ "TypeScript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Firebase](https://skillicons.dev/icons?i=firebase "Firebase")](https://firebase.google.com/ "Firebase") [![Docker](https://skillicons.dev/icons?i=docker "Docker")](https://docker.com/ "Docker") [![AWS](https://skillicons.dev/icons?i=aws "AWS")](https://aws.amazon.com/ "AWS") [![Three.js](https://skillicons.dev/icons?i=threejs "Three.js")](https://threejs.org/ "Three.js")
 
 ## :wrench: Stats
 
@@ -151,13 +165,13 @@ Useful resources and dependencies that are used in Space Portfolio.
 
 ## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/waleedul3 "Buy me a Coffee")
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/sanidhyy?style=social&label=Follow&maxAge=2592000)](https://github.com/sanidhyy "Follow Me")
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTechnicalShubam)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+app:&url=https%3A%2F%2Fgithub.com%2Fsanidhyy%2Fspace-portfolio "Tweet")
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCNAz_hUVBG2ZUN8TVm0bmYw)](https://www.youtube.com/@OPGAMER. "Subscribe my YouTube Channel")
+[![GitHub followers](https://img.shields.io/github/followers/waleedul3?style=social&label=Follow&maxAge=2592000)](https://github.com/waleedul3 "Follow Me")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waleedul3 "Connect on LinkedIn")
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fwaleedul3)](https://twitter.com/intent/tweet?text=Check+out+this+amazing+portfolio:&url=https%3A%2F%2Fgithub.com%2Fwaleedul3%2Fspace-portfolio "Tweet")
 
 ## :books: Learn More
 
@@ -180,11 +194,11 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/space-portfolio&Timeline">
+<a href="https://star-history.com/#waleedul3/space-portfolio&Timeline">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/space-portfolio&type=Timeline" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=waleedul3/space-portfolio&type=Timeline&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=waleedul3/space-portfolio&type=Timeline" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=waleedul3/space-portfolio&type=Timeline" />
 </picture>
 </a>
 

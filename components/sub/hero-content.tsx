@@ -24,7 +24,7 @@ export const HeroContent = () => {
         >
           <SparklesIcon className="text-[#b49bff] mr-[10px] h-5 w-5" />
           <h1 className="Welcome-text text-[13px]">
-            Fullstack Developer Portfolio
+            MERN Stack & AI Developer Portfolio
           </h1>
         </motion.div>
 
@@ -33,11 +33,11 @@ export const HeroContent = () => {
           className="flex flex-col gap-6 mt-6 text-6xl text-bold text-white max-w-[600px] w-auto h-auto"
         >
           <span>
-            Providing{" "}
+            Building{" "}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
-              the best
+              scalable solutions
             </span>{" "}
-            project experience.
+            with modern tech.
           </span>
         </motion.div>
 
@@ -45,15 +45,15 @@ export const HeroContent = () => {
           variants={slideInFromLeft(0.8)}
           className="text-lg text-gray-400 my-5 max-w-[600px]"
         >
-          I&apos;m a Full Stack Software Engineer with experience in Website,
-          Mobile, and Software development. Check out my projects and skills.
+          I&apos;m MD Waleedul Haque, a Computer Science Engineering student specializing in MERN Stack Development and AI/ML. Passionate about building high-impact software products across EdTech, streaming, and social platforms.
         </motion.p>
 
         <motion.a
           variants={slideInFromLeft(1)}
+          href="mailto:waleedulhaque3@email.com"
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
         >
-          Learn more
+          Contact Me
         </motion.a>
       </div>
 
