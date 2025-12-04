@@ -24,6 +24,8 @@ export const Navbar = () => {
             height={70}
             draggable={false}
             className="cursor-pointer"
+            priority
+            fetchPriority="high"
           />
           <div className="hidden md:flex md:selffont-bold ml-[10px] text-gray-300">WALEED</div>
         </Link>

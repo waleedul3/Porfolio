@@ -68,6 +68,8 @@ export const HeroContent = () => {
           width={650}
           draggable={false}
           className="select-none"
+          priority
+          fetchPriority="high"
         />
       </motion.div>
     </motion.div>

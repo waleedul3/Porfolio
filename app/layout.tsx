@@ -10,7 +10,11 @@ import { cn } from "@/lib/utils";
 
 import "./globals.css";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Inter({ 
+  subsets: ["latin"],
+  display: "swap",
+  preload: true
+});
 
 export const viewport: Viewport = {
   themeColor: "#030014",
@@ -21,6 +25,10 @@ export const metadata: Metadata = siteConfig;
 export default function RootLayout({ children }: PropsWithChildren) {
   return (
     <html lang="en">
+      <head>
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+      </head>
       <body
         className={cn(
           "bg-[#030014] overflow-y-scroll overflow-x-hidden",

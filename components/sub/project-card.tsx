@@ -24,9 +24,11 @@ export const ProjectCard = ({
       <Image
         src={src}
         alt={title}
-        width={1000}
-        height={1000}
+        width={400}
+        height={300}
         className="w-full object-contain"
+        loading="lazy"
+        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
       />
 
       <div className="relative p-4">
